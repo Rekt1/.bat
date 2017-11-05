@@ -1,0 +1,18 @@
+Привет, это новый код
+
+@echo off
+
+:start
+
+color 0a
+
+echo %random% %random%
+
+color 05
+
+echo %random% %random% %random%
+
+goto start
+
+and yes i from Russia 
+Привет по Русски 
